@@ -1,2 +1,3 @@
 # hello-world
 I would have wanted to name this hello-nadia but here goes ...
+It's been decades since I wrote some (applebasic) programming. Although rusty in thinking at times (I'm now 63), Android is pulling me to code the apps I have in mind. 
